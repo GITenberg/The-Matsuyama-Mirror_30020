@@ -1,0 +1,34 @@
+_repo: The-Matsuyama-Mirror_30020
+_version: 0.1.0
+alternative_title: Matsuyama kagami. English
+contributor:
+  illustrator:
+    agent_name: Eitaku
+    alias: Sensai Eitaku
+    birthdate: 1843
+    deathdate: 1890
+    gutenberg_agent_id: '28346'
+    url: http://www.gutenberg.org/2009/agents/28346
+  translator:
+    agent_name: James, T. H., Mrs.
+    alias: James, Kate
+    gutenberg_agent_id: '34319'
+    url: http://www.gutenberg.org/2009/agents/34319
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2009-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Japan'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+title: The Matsuyama Mirror
+url: http://www.gutenberg.org/ebooks/30020
